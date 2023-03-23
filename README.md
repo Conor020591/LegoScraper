@@ -1,4 +1,4 @@
-# LegoScraper
+# LegoSet_DataScraping
 This is a quick script that makes use of the Selenium Python library to scrape details about lego sets from Brickset.com.
 First it scrapes the set IDs by year, then uses these IDs to scrape the individual pages.
 
